@@ -1,0 +1,35 @@
+table { width: 100%;
+    height: 98vh;
+    text-align: center;
+    
+}
+
+td { width: 5.5%;
+height: 1%;}   
+
+#tdlogo{height: 20px;
+text-align: left;}
+
+#coluna1{ width: 5.5%;
+    height: 1%;
+}
+.alinhamento {text-align: left;}
+.barra{background-color: rgba(16, 103, 55, 1);}
+.escritabarra{color: honeydew;}
+#espaco{width: 100%;
+height: 1%;}
+#link{
+    color: honeydew;
+    text-decoration: none;
+}
+#larguratdpagina2{ width: 13%;}
+.caixascinzas{background-color: rgba(179, 177, 177, 0.877);}
+#corescrita{color: rgb(255, 255, 255);}
+#enviar{background-color: rgb(247, 45, 45);}
+#alinhamento2{text-align: left};
+.corbranca{background-color: white;}
+#borda{border: 3px solid black;}
+
+        
+
+    
